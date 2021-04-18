@@ -1,1 +1,1 @@
-This is Poltyrgysts first git prokect!
+This is Poltyrgysts first git project!
