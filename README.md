@@ -1,0 +1,1 @@
+This is Poltyrgysts first git prokect!
